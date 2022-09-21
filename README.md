@@ -46,7 +46,7 @@ BDD is under the SpecFlowBDD project, where there are features and stepdefinitio
 
 ## 3. Give your thoughts on BDD
 
-**What was positive and good about using BDD?*
+**What was positive and good about using BDD?**
 
 BDD usage of plain text to create scenarios, which then turns into methods is pretty awesome. BDD frameworks make it easy to turn scenarios into automated tests. BDD scenarios are easy to update as the project changes.
 
