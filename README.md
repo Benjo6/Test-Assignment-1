@@ -1,7 +1,7 @@
 # Test-Assignment-1
 
 
-#1. REFLECTIONS
+##1. REFLECTIONS
 
 ### Shooting
 
@@ -22,7 +22,7 @@ The possible reasons for the man not dying:
  Imagination
  Filming
  
- ## Alien
+ ### Alien
  **An alien meets you and it asks you to teach it how to brush its teeth. Assume that the alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-by-step instruction. List the steps. Be as detailed as you can. (Example: Hold the toothpaste with your left hand; turn the cap anti-clockwise)**
  
 1. Grasp the toothpaste tube with your left hand and turn the cap counterclockwise with your right hand until the cap comes off.
@@ -38,13 +38,13 @@ Reaching your mouth, place the bristles there and massage them in a circular mot
 
 6. Continue until all of your teeth are spotlessly clean. 
 
-# 2. Two Katas
+## 2. Two Katas
 
 TDD is under the unittest class where I first created the tests and then proceed to get the class and methods. There is two classes within this project which is RomanNumeralKataTests and TemperatureKataTests.
 
 BDD is under the SpecFlowBDD project, where there are features and stepdefinitions. Features are all the scenarios I want to test, while stepdefinitions are the generated based on these scenarios. The created stepdefinitions are a collection of methods where I input the right code into these methods.
 
-# 3. Give your thoughts on BDD
+## 3. Give your thoughts on BDD
 
 **What was positive and good about using BDD?*
 
