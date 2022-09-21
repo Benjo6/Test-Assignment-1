@@ -40,7 +40,11 @@ Reaching your mouth, place the bristles there and massage them in a circular mot
 
 ## 2. Two Katas
 
-TDD is under the unittest class where I first created the tests and then proceed to get the class and methods. There is two classes within this project which is RomanNumeralKataTests and TemperatureKataTests.
+TDD is under the unittest class where I first created the tests and then proceed to get the class and methods. There is two classes within this project.
+
+[RomanNumeralKataTests.cs](https://github.com/Benjo6/Test-Assignment-1/blob/master/UnitTest/RomanNumeralKataTests.cs) 
+
+[TemperatureKataTests.cs](https://github.com/Benjo6/Test-Assignment-1/blob/master/UnitTest/RomanNumeralKataTests.cs)
 
 BDD is under the SpecFlowBDD project, where there are features and stepdefinitions. Features are all the scenarios I want to test, while stepdefinitions are the generated based on these scenarios. The created stepdefinitions are a collection of methods where I input the right code into these methods.
 
