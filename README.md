@@ -40,34 +40,33 @@ Reaching your mouth, place the bristles there and massage them in a circular mot
 
 ## 2. Two Katas
 
-TDD is under the unittest class where I first created the tests and then proceed to get the class and methods. There is two classes within this project.
+The unit test class is where TDD is located, and I initially developed the tests before developing the classes and methods. This project consists of two classes. 
 
 [RomanNumeralKataTests.cs](https://github.com/Benjo6/Test-Assignment-1/blob/master/UnitTest/RomanNumeralKataTests.cs) 
 
 [TemperatureKataTests.cs](https://github.com/Benjo6/Test-Assignment-1/blob/master/UnitTest/RomanNumeralKataTests.cs)
 
-BDD is under the SpecFlowBDD project, where there are features and stepdefinitions. Features are all the scenarios I want to test, while stepdefinitions are the generated based on these scenarios. The created stepdefinitions are a collection of methods where I input the right code into these methods.
+The SpecFlowBDD project, which contains features and stepdefinitions, is where BDD is located. The scenarios I want to test are all the features, and stepdefinitions are created based on these scenarios. I inserted the appropriate code into the several methods that make up the stepdefinitions that I developed. 
 
 ## 3. Give your thoughts on BDD
 
 **What was positive and good about using BDD?**
 
-BDD usage of plain text to create scenarios, which then turns into methods is pretty awesome. BDD frameworks make it easy to turn scenarios into automated tests. BDD scenarios are easy to update as the project changes.
+It's quite fantastic how BDD uses plain text to construct scenarios that become test methods. Scenarios can easily be converted into automated tests using BDD frameworks. BDD scenarios are straightforward to update as the project changes. 
 
 **What was annoying or difficult**
 
-Gherkin's logic was challenging to understand for the beginning. There was a ton of new rules you have to take into account and formulation was by far the most challenging aspect of it.
+Gherkin's logic was initially difficult to grasp. The formulation was by far the most tricky aspect of it because there were so many new rules to contemplate. 
 
 **What surprised you?**
 
-The importance of formulation. I was really surprised how important the formulation in Gherkin. You have to be extremely precise and understand how to use the right keywords to get the desired results. The tests will easily fail, if they are vaguely described. Precision is KEY.
+The importance of formulation. I was really surprised how important the formulation in Gherkin. To achieve the desired outcomes, you must be very exact and know how to employ the appropriate keywords. If the tests are poorly stated, they will easily fail.The key is PRECISION. 
 
 **Did BDD help you understand the problem domain more**
 
-??
+I did gain a better knowledge of what my code is exactly doing and how its executed.
 
 **Did BDD help you write some tests you wouldn't otherwise have thought of?**
 
-The only test that I didn't think of myself was testing the exception. 
-
+The exception test was the only one I failed to think of myself. 
  
