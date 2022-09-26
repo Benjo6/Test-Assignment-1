@@ -9,17 +9,29 @@
 reasons for the man not dying.**
 
 The possible reasons for the man not dying:
+ 
  -Missed shot
+ 
  -No more bullet
+ 
  -Damaged ammo
+ 
  -Wear a bulletproof vest
+ 
  -Timely first aid
+ 
  -Avoid
+ 
  -Fake gun
+ 
  -Shot without hitting a dangerous place
+ 
  -Someone took the bullets
+ 
  -Can dodge
+ 
  -Imagination
+ 
  -Filming
  
  ### Alien
